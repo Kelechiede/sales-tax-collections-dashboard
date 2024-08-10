@@ -4,7 +4,7 @@ Analyzing sales tax collections across different states
 
 This project analyzes sales tax collections across different states using Tableau. The dashboard provides insights into tax trends, top-performing states, and monthly collections.
 
-**[View the interactive Tableau dashboard](https://public.tableau.com/your_dashboard_link)**
+**[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/kelechukwu.innocent.ede/viz/SalesTaxCollectionsbyStates/SalesTaxCollectionsbyStates?publish=yes)**
 
 ## Files in this Repository
 - **Dashboard PDF**: PDF version of the Tableau dashboard.
